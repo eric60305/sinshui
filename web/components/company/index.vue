@@ -142,7 +142,7 @@ onMounted(() => {
       align="center"
       prop="supplement"
       label="補充說明"
-      min-width="300"
+      :min-width="screenWidth > 800 ? 320 : 280"
       :fixed="screenWidth > 800 ? 'right' : false"
     />
   </el-table>

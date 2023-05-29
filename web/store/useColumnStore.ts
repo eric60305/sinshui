@@ -73,7 +73,7 @@ const columnData = {
     label: '相關年資',
   },
   currentTenure: {
-    value: false,
+    value: true,
     label: '在職年資',
   },
   monthlyBaseSalary: {

@@ -7256,5 +7256,24 @@
     "loading": 3,
     "supplement": "新人練功可以，起薪相對比其他系統廠較高",
     "companyType": "system"
+  },
+  {
+    "timestamp": "2023/5/6 下午 3:27:07",
+    "companyName": "技嘉",
+    "nothing": "",
+    "position": "筆電機構工程師",
+    "jobLevel": "工程師",
+    "relevantExperience": 0,
+    "currentTenure": 10,
+    "monthlyBaseSalary": 6.5,
+    "monthlyBonus": 2,
+    "totalAnnualCompensation": 115,
+    "dailyAverageWorkingHours": 8,
+    "monthlyOvertime": 8,
+    "overtimeFrequency": 3,
+    "jobSatisfaction": 2,
+    "loading": 3,
+    "supplement": "",
+    "companyType": "system"
   }
 ]
